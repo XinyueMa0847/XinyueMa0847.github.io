@@ -29,7 +29,8 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: assets\XinyueMa_CV.pdf
-
+    office: Bldg 106, 607, UNIST, 50 UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, Korea
+    
     languages:
       title: Languages
       info:
@@ -42,82 +43,72 @@ sidebar:
         - idiom: Korean
           level: Professional
 
-    interests:
-      title: 
-      info:
-        - item: 
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Climbing
+    #       link:
 
-        - item: 
-          link:
+    #     - item: Snowboarding
+    #       link:
 
-        - item: Cooking
-          link:
+    #     - item: Cooking
+    #       link:
 
 career-profile:
-    title: Xinyue Ma
-    summary: |
-      PhD Candidate advised by Professor [Myeongjae Jeon]()
-      Department of Computer Science and Engineering
-      [OMNIA]() at UNIST [\[CV]\]()
-
+  title: Xinyue Ma
+  summary: |
+    PhD Candidate<br>
+    Advised by Professor [Myeongjae Jeon](https://sites.google.com/site/myeongjae/)<br>
+    Department of Computer Science Engineering<br>
+    [OMNIA](https://omnia.unist.ac.kr/) at UNIST [[CV](assets\XinyueMa_CV.pdf)]
 education:
     title: Education
     info:
-      - degree: MS-PhD in Computer Science and Engineering
-        university: [UNIST]()
+      - degree: MS-PhD in Computer Science Eng.
+        university: UNIST, Korea
         time: 2022 - Present
-        details:
-      - degree: B.S. in Electrical Engineering 
-        university: [KAIST]()
+
+      - degree: B.S. in Electrical Eng.
+        university: KAIST, Korea
         time: 2017 Spring - 2021 Fall
-        details:
+publications:
+    title: Publications
+    intro: 
+    papers:
+      - title: Cost-effective On-device Continual Learning over Memory Hierarchy with Miro
+        link: "#"
+        authors:  Xinyue Ma, Suyeon Jeong, Minjia Zhang, Di Wang, Jonghyun Choi, Myeongjae Jeon
+        conference: ACM MobiCom 2023[PDF](https://arxiv.org/pdf/2308.06053) [Slides](https://sigmobile.org/mobicom/2023/media/presentations/MaMiro.pdf)  [Code](https://github.com/omnia-unist/Miro) 
 
 experiences:
     title: Experiences
     info:
       - role: Internship @ Intelligent Cloud Edge Group
-        time: 2023.11 - 2024.2 
-        company: Microsoft Research Asia, Beijing, China
+        company: 2023.11 - 2024.2 
+        time: Microsoft Research Asia
         details: 
       - role: Teaching Assistant @ UNIST	
-        time: 2022 - Present
-        company: UNIST
-        details: 
+        company: 2022 - Present
+        time: UNIST
+        details: |
             - Computer Architecture (2023 Fall)
             - Parallel Computing (2022 Fall)
             - Advanced Programming (2022 Spring) 
+
 
 certifications:
       title: Research Interests
       list:
         - name: Efficient Machine Learning
-          start: 
-          end: 
-          organization: 
-          credentialid:
-          credentialurl: 
-          credentialname: 
-          details: 
         - name: Continual Learning
-          start: 
-          end: 
-          organization: 
-          credentialid:
-          credentialurl: 
-          credentialname: 
-          details: 
         - name: On-device Learning
-          start: 
-          end: 
-          organization: 
-          credentialid:
-          credentialurl: 
-          credentialname: 
-          details: 
-projects:
-#     title: Publications
-#     intro: 
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 #     assignments:
 #       - title: Velocity
 #         link: "#hook"
@@ -140,47 +131,33 @@ projects:
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: Skills
+    intro:
+    contributions:
+      - title: Programming Languages
+        tagline: "C/C++, Python, SQL, VDHL, Assembly"
 
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Tools	
+        tagline: "PyTorch, TensorFlow, MapReduce"
 
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: 
-    papers:
-      - title: Cost-effective On-device Continual Learning over Memory Hierarchy with Miro
-        link: "#"
-        authors: Xinyue Ma, Suyeon Jeong, Minjia Zhang, Di Wang, Jonghyun Choi, Myeongjae Jeon
-        conference: [ACM MobiCom 2023](), Oct. 2023 [PDF]()[Slides]()[Code]()  
+      - title: Skillset
+        tagline: "Socket Programming, Pintos, Verilog (Behavioral and Structural)"
 
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Programming Languages			C/C++, Python, SQL, VDHL, Assembly
-        level: 0%
+# skills:
+#     title: Skills &amp; Proficiency
 
-      - name: Tools								      PyTorch, TensorFlow, MapReduce, Microsoft Office Suite
-        level: 0%
+#     toolset:
+#       - name: Programming Languages			C/C++, Python, SQL, VDHL, Assembly
+#         level: 0%
 
-      - name: Skillset								  Socket Programming, Pintos, Verilog (Behavioral and Structural)
-        level: 0%
+#       - name: Tools								      PyTorch, TensorFlow, MapReduce, Microsoft Office Suite
+#         level: 0%
+
+#       - name: Skillset								  Socket Programming, Pintos, Verilog (Behavioral and Structural)
+#         level: 0%
 
 
-footer: 
-#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
