@@ -34,14 +34,11 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: Chinese
-          level: Native
+        - idiom: Chinese - Native
 
-        - idiom: English
-          level: Professional
+        - idiom: English - Professional
 
-        - idiom: Korean
-          level: Professional
+        - idiom: Korean - Professional
 
     # interests:
     #   title: Interests
@@ -159,5 +156,5 @@ oss:
 #         level: 0%
 
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
