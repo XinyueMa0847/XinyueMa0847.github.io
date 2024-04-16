@@ -1,7 +1,8 @@
 /* Extra small devices (phones, less than 768px) */
-@media (max-width: 767px) {
-  body {
-    padding: 2;
+// @media (max-width: 767px) {
+@media (max-width: 575px) {
+    body {
+    padding: 0;
   }
   .avatar {
     width: 100%; /* Adjust the width to your preference */
@@ -49,8 +50,9 @@
   }
 }
 /* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-}
+@media (min-width: 576px) {
+// @media (min-width: 768px) {
+  }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
