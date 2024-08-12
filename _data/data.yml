@@ -61,13 +61,17 @@ career-profile:
     PhD Candidate<br>
     Advised by Professor [Myeongjae Jeon](https://sites.google.com/site/myeongjae/)<br>
     Department of Computer Science Engineering<br>
-    [OMNIA](https://omnia.unist.ac.kr/) at UNIST [[CV](assets\XinyueMa_CV.pdf)]
+    [OMNIA](https://omnia.unist.ac.kr/) at POSTECH [[CV](assets\XinyueMa_CV.pdf)]
 education:
     title: Education
     info:
+      - degree: MS-PhD in Artifical Intelligence 
+        university: POSTECH, Korea
+        time: 2024 Fall - Present
+
       - degree: MS-PhD in Computer Science Eng.
         university: UNIST, Korea
-        time: 2022 - Present
+        time: 2022 Spring - 2024 Spring
 
       - degree: B.S. in Electrical Eng.
         university: KAIST, Korea
