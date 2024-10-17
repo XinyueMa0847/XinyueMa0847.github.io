@@ -62,6 +62,8 @@ career-profile:
     Advised by Professor [Myeongjae Jeon](https://sites.google.com/site/myeongjae/)<br>
     Department of Computer Science Engineering<br>
     [OMNIA](https://omnia.unist.ac.kr/) at POSTECH [[CV](assets\XinyueMa_CV.pdf)]
+  notice: 
+     I am currently an research intern in [RiSE group @ Microsoft Research](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/), working on KV cache reuse for large language models. 
 education:
     title: Education
     info:
