@@ -37,7 +37,7 @@ p {
   display: grid;
   grid-template-columns: 75% 1fr; //repeat(10, 1fr);
   background: $theme-color;
-  max-width: 2000px;
+  max-width: 2500px;
   width: 80%;
   margin: 0 auto;
   position: relative;
@@ -219,7 +219,7 @@ p {
     text-align: right; /* Aligns the text to the right */
     white-space: nowrap; /* Prevents wrapping */
     width: auto; /* Ensures no explicit width constraint */
-    overflow: hidden; /* Hides any overflowing text if necessary */
+    // overflow: hidden; /* Hides any overflowing text if necessary */
   }
   .details{
     font-size: 18px;
