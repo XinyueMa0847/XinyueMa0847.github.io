@@ -215,7 +215,8 @@ p {
   .time{
     font-size: 20px;
     text-decoration: underline;
-    color: $text-color
+    color: $text-color;
+    text-align: right; /* Aligns the text to the right */
   }
   .details{
     font-size: 18px;
