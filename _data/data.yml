@@ -63,7 +63,7 @@ career-profile:
     Graduate School of Artificial Intelligence<br>
     [OMNIA](https://omnia.unist.ac.kr/) at POSTECH [[CV](assets\XinyueMa_CV.pdf)]
     
-    I am currently an research intern in [RiSE group @ Microsoft Research](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/), working on KV cache reuse for large language models. 
+    # I am currently an research intern in [RiSE group @ Microsoft Research](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/), working on KV cache reuse for large language models. 
     
 education:
     title: Education
@@ -95,6 +95,10 @@ publications:
 experiences:
     title: Experiences
     info:
+      - role: Internship @ RiSE Group
+        company: 2024.9 - 2024.12
+        time: Microsoft Research Redmond
+        details: Effective KV Cache Reuse for Retreival-Augmented Generation
       - role: Internship @ Intelligent Cloud Edge Group
         company: 2023.11 - 2024.2 
         time: Microsoft Research Asia
